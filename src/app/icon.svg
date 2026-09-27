@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Solana DeFi Dashboard — crystal mark: the hero gem's cross-section -->
+  <polygon points="32,4 54,26 32,60 10,26" fill="#0a0b12"/>
+  <polygon points="32,4 54,26 32,60 10,26" fill="none" stroke="#9945ff" stroke-width="2.5"/>
+  <polyline points="10,26 32,20 54,26" fill="none" stroke="#9945ff" stroke-width="1.6" opacity="0.8"/>
+  <line x1="32" y1="20" x2="32" y2="60" stroke="#9945ff" stroke-width="1.4" opacity="0.55"/>
+  <polygon points="32,4 32,20 10,26" fill="#9945ff" opacity="0.35"/>
+  <polygon points="32,4 32,20 54,26" fill="#c05af5" opacity="0.5"/>
+  <circle cx="44" cy="36" r="2.4" fill="#14f195"/>
+</svg>

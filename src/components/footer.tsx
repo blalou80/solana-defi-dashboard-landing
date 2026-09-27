@@ -14,7 +14,12 @@ export function Footer() {
           Foundation. Nothing here is financial advice.
         </p>
         <p className="font-mono text-[11px] text-white/60">
-          contact@example.com · placeholder
+          <a
+            href="mailto:zedomuharramv@gmail.com"
+            className="underline-offset-4 transition-colors hover:text-white hover:underline"
+          >
+            zedomuharramv@gmail.com
+          </a>
         </p>
       </div>
     </footer>

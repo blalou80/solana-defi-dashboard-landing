@@ -63,8 +63,7 @@ npm run lint
 | Item | Where | Notes |
 |---|---|---|
 | Site URL | `src/app/layout.tsx`, `src/app/sitemap.ts`, `src/app/robots.ts` | Replace `https://solana-defi-dashboard.vercel.app` with your final domain (used for canonical URL, OG tags, sitemap reference) |
-| Contact email | `src/components/contact.tsx`, `src/components/footer.tsx` | `contact@example.com` is a placeholder |
-| Documentation link | `src/components/contact.tsx` | Currently points at the repo `docs/` directory description; swap for a real URL when docs ship |
+| Contact email | `src/components/footer.tsx` | Set to `zedomuharramv@gmail.com` |
 
 ## Project structure
 
